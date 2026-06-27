@@ -46,7 +46,7 @@ function App() {
             type="text"
             // style={{backgroundColor: "white"}}
             value={password}
-            className="outline-none w-full py-1 px-3 bg-w"
+            className="outline-none w-full py-1 px-3 bg-white"
             placeholder="Password"
             readOnly
             ref={passwordRef}
