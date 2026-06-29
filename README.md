@@ -84,13 +84,13 @@ This repository helps me to:
 ### Clone the repository
 
 ```bash
-git clone <https://github.com/DivyanshVashishtth/ReactJS.git>
+git clone https://github.com/DivyanshVashishtth/ReactJS.git
 ```
 
 ### Navigate to the project
 
 ```bash
-cd React-Learning
+cd ReactJS
 ```
 
 ### Install dependencies
