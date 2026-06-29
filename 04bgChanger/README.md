@@ -22,3 +22,22 @@ To run this specific project locally on your machine, follow these steps:
 If you are in the root repository folder, move into the background changer project folder:
 ```bash
 cd 04bgChanger
+
+2. Install dependencies
+Install the required packages (React, Vite, Tailwind CSS):
+
+Bash
+npm install
+3. Run the development server
+Start the local server to view the application in your browser:
+
+Bash
+npm run dev
+Once the server starts, open http://localhost:5173 (or the port provided in your terminal) to view the project!
+
+⚙️ Built With
+React - Frontend JavaScript library
+
+Vite - Next-generation frontend tooling
+
+Tailwind CSS - Utility-first CSS framework
